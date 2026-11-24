@@ -108,3 +108,8 @@ Share your thoughts in the comments.
 Independent research-based analysis focused on Bangladesh's biodiversity, wildlife conservation, and environmental risks.
 
 Researcher: Mahin Hasnat
+
+
+---
+
+Note : This is an independent research-based analytical project. The findings are not an official assessment by IUCN or the Bangladesh Forest Department.
