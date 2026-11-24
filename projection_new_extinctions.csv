@@ -1,0 +1,17 @@
+group,year,expected_new_regional_extinctions_since_2015,p05,p95
+Mammals,2026,3.67,0.0,8.0
+Mammals,2030,4.8,0.0,10.0
+Birds,2026,1.46,0.0,4.0
+Birds,2030,1.96,0.0,5.0
+Reptiles,2026,1.43,0.0,4.0
+Reptiles,2030,1.88,0.0,5.0
+Amphibians,2026,0.5,0.0,2.0
+Amphibians,2030,0.65,0.0,2.0
+Freshwater fish,2026,2.5,0.0,6.0
+Freshwater fish,2030,3.28,0.0,8.0
+Crustaceans,2026,0.41,0.0,2.0
+Crustaceans,2030,0.55,0.0,2.0
+Butterflies,2026,7.15,1.0,15.0
+Butterflies,2030,9.51,2.0,20.0
+ALL GROUPS,2026,17.13,3.0,35.0
+ALL GROUPS,2030,22.63,5.0,44.0
